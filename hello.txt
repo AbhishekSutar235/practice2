@@ -1,3 +1,5 @@
 this is a new file
 I have added a 2nd line
 I have added a 3nd line
+
+git is working properly
